@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <fileVersion>5</fileVersion>
+    <fileChecksum>3480128003</fileChecksum>
+    <configuration>
+        <name>Release</name>
+        <outputs>
+            <file>$PROJ_DIR$\..\..\..\Library\CMSIS\Include\core_cmFunc.h</file>
+            <file>$PROJ_DIR$\..\..\Template\IAR\Template.icf</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\usci_i2c.h</file>
+            <file>$PROJ_DIR$\..\main.c</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Source\system_M031Series.c</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\src\pdma.c</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Source\IAR\startup_M031Series.s</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\src\clk.c</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\src\retarget.c</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\src\uart.c</file>
+            <file>$PROJ_DIR$\Release\Obj\CMSIS Files\system_M031Series.o</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\src\sys.c</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\spi.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\bpwm_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\ebi.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\wdt.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\sys.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\adc.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\spi_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\CMSIS\Include\core_cmInstr.h</file>
+            <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\clk_reg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\crc.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\usbd.h</file>
+            <file>$PROJ_DIR$\Release\Obj\CMSIS Files\startup_M031Series.o</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\uspi_reg.h</file>
+            <file>$PROJ_DIR$\Release\Obj\Library Files\retarget.o</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\iccarm_builtin.h</file>
+            <file>$PROJ_DIR$\Release\Obj\Library Files\sys.o</file>
+            <file>$PROJ_DIR$\Release\Obj\Library Files\pdma.o</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\usci_spi.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+            <file>$PROJ_DIR$\Release\Obj\Library Files\uart.o</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\timer_reg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\system_M031Series.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\uart.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\aarch32\cmsis_iar.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\CMSIS\Include\core_cm0.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\wwdt.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\acmp.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\crc_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\fmc_reg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+            <file>$PROJ_DIR$\Release\Obj\Library Files\clk.o</file>
+            <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+            <file>$PROJ_DIR$\Release\Obj\Source Files\main.o</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\usbd_reg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\rtc_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\i2c.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\ebi_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\pwm_reg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\ui2c_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\fmc.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\uuart_reg.h</file>
+            <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+            <file>$PROJ_DIR$\Release\Obj\CMSIS Files\startup_M031Series.o.rsp</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\timer.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\usci_uart.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\hdiv_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\pwm.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\wdt_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\qspi.h</file>
+            <file>$TOOLKIT_DIR$\lib\dl6M_tlf.a</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\gpio_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\qspi_reg.h</file>
+            <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Full.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\acmp_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\M031Series.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\i2c_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\hdiv.h</file>
+            <file>$PROJ_DIR$\Release\Exe\Template.out</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\adc_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\uart_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\sys_reg.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\rtc.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\clk.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\NuMicro.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\pdma.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\bpwm.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\StdDriver\inc\gpio.h</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\pdma_reg.h</file>
+            <file>$PROJ_DIR$\Release\Exe\Template.bin</file>
+            <file>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Include\wwdt_reg.h</file>
+            <file>$PROJ_DIR$\Release\List\Template.map</file>
+        </outputs>
+        <file>
+            <name>$PROJ_DIR$\..\main.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 50</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72 35 40 52 39 28 57 42 22 47 32 38 41 0 19 74 83 73 78 13 21 45 55 46 70 65 75 87 56 71 53 18 80 36 34 79 58 51 26 60 67 89 44 17 85 82 23 14 59 86 76 54 84 66 68 81 12 16 63 37 24 2 31 64 15 43</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Source\system_M031Series.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 10</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72 35 40 39 28 57 42 47 32 38 41 0 19 74 83 73 78 13 21 45 55 46 70 65 75 87 56 71 53 18 80 36 34 79 58 51 26 60 67 89 44 17 85 82 23 14 59 86 76 54 84 66 68 81 12 16 63 37 24 2 31 64 15 43</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Library\StdDriver\src\pdma.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 30</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72 35 40 39 28 57 47 38 41 0 19 74 73 78 13 21 45 55 46 70 65 75 87 56 71 53 18 80 36 34 79 58 51 26 60 67 89 44 17 85 82 23 14 59 86 76 54 84 66 68 81 12 16 63 37 24 2 31 64 15 43</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Library\Device\Nuvoton\M031\Source\IAR\startup_M031Series.s</name>
+            <outputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 25</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>AARM</name>
+                    <file> 62</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Library\StdDriver\src\clk.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 48</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72 35 40 39 28 57 47 38 41 0 19 74 73 78 13 21 45 55 46 70 65 75 87 56 71 53 18 80 36 34 79 58 51 26 60 67 89 44 17 85 82 23 14 59 86 76 54 84 66 68 81 12 16 63 37 24 2 31 64 15 43</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Library\StdDriver\src\retarget.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 27</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72 35 40 39 28 57 42 47 32 38 41 0 19 74 83 73 78 13 21 45 55 46 70 65 75 87 56 71 53 18 80 36 34 79 58 51 26 60 67 89 44 17 85 82 23 14 59 86 76 54 84 66 68 81 12 16 63 37 24 2 31 64 15 43</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Library\StdDriver\src\uart.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 33</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72 35 40 39 28 57 42 47 32 38 41 0 19 74 83 73 78 13 21 45 55 46 70 65 75 87 56 71 53 18 80 36 34 79 58 51 26 60 67 89 44 17 85 82 23 14 59 86 76 54 84 66 68 81 12 16 63 37 24 2 31 64 15 43</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\..\..\..\Library\StdDriver\src\sys.c</name>
+            <outputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 29</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ICCARM</name>
+                    <file> 72 35 40 39 28 57 47 38 41 0 19 74 73 78 13 21 45 55 46 70 65 75 87 56 71 53 18 80 36 34 79 58 51 26 60 67 89 44 17 85 82 23 14 59 86 76 54 84 66 68 81 12 16 63 37 24 2 31 64 15 43</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>[ROOT_NODE]</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 77 90</file>
+                </tool>
+            </outputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Release\Exe\Template.out</name>
+            <outputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 90</file>
+                </tool>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 88</file>
+                </tool>
+            </outputs>
+            <inputs>
+                <tool>
+                    <name>ILINK</name>
+                    <file> 69 49 20 61 1 25 10 48 30 27 29 33 50</file>
+                </tool>
+            </inputs>
+        </file>
+        <file>
+            <name>$PROJ_DIR$\Release\Exe\Template.bin</name>
+            <inputs>
+                <tool>
+                    <name>OBJCOPY</name>
+                    <file> 77</file>
+                </tool>
+            </inputs>
+        </file>
+    </configuration>
+</project>

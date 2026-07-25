@@ -1,0 +1,60 @@
+# ninja log v5
+9	336	8065813790000000	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Library Files/pdma.xcl	790255af7891d134
+4	362	8066819518469973	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Source Files/main.pbi	1a9add7ee442ad1e
+1454	2031	8065812340570930	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/CMSIS Files/system_M031Series.pbi	3689b9915d4b4c3b
+149	1043	8065812330000000	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Library Files/retarget.xcl	9fa101e83553455a
+87	1078	8065812330000000	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Library Files/clk.xcl	75d173c7cd85c0a0
+1099	1465	8065812330000000	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Library Files/uart.xcl	fe62b2259bf126de
+1069	1430	8065812330000000	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/CMSIS Files/system_M031Series.xcl	665121a0ecf29aff
+1489	2051	8065812340700952	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Library Files/clk.pbi	9cb85e22c823d5c
+2062	2364	8065812340000000	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Library Files/sys.xcl	230bbaccc3ac8832
+360	821	8065813799289956	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Library Files/pdma.pbi	69df0b419a6e0ead
+2043	2641	8065812346603281	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Library Files/retarget.pbi	608482c167ae594d
+2388	2706	8065812340000000	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Source Files/main.xcl	c3f3679404553975
+2654	3239	8065812352686699	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Library Files/sys.pbi	5c3cbe092ae9fa70
+185	462	8065813795716142	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template_part1.pbi	81c9ea5b3df6278c
+833	1037	8065813801465291	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template_part0.pbi	60d608a554927e6b
+3196	3807	8065812358325869	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Library Files/uart.pbi	7e5bf1fb5a8533e4
+374	489	8066819519749975	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template_part2.pbi	c4910e879abf22e2
+500	736	8066819522230091	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbd	22bbd2c09be9647e
+752	2858	8066819542830667	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbw	16d117a928272e11
+2	490	8066820158091652	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Source Files/main.pbi	1a9add7ee442ad1e
+502	598	8066820159181646	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template_part2.pbi	c4910e879abf22e2
+611	795	8066820161151712	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbd	22bbd2c09be9647e
+814	2881	8066820181296819	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbw	16d117a928272e11
+4	451	8066820897980949	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Source Files/main.pbi	1a9add7ee442ad1e
+462	602	8066820899530971	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template_part2.pbi	c4910e879abf22e2
+613	910	8066820902560973	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbd	22bbd2c09be9647e
+926	2862	8066820921519056	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbw	16d117a928272e11
+4	345	8066820976656534	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Source Files/main.pbi	1a9add7ee442ad1e
+358	461	8066820977846510	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template_part2.pbi	c4910e879abf22e2
+473	648	8066820979706490	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbd	22bbd2c09be9647e
+666	2590	8066820998573292	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbw	16d117a928272e11
+6	468	8066821055474571	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Source Files/main.pbi	1a9add7ee442ad1e
+481	573	8066821056554640	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template_part2.pbi	c4910e879abf22e2
+585	754	8066821058354639	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbd	22bbd2c09be9647e
+770	2633	8066821076664611	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbw	16d117a928272e11
+4	352	8066821131860454	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Source Files/main.pbi	1a9add7ee442ad1e
+364	478	8066821133120523	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template_part2.pbi	c4910e879abf22e2
+490	672	8066821135080456	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbd	22bbd2c09be9647e
+689	2604	8066821153790550	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbw	16d117a928272e11
+3	545	8066821413885318	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Source Files/main.pbi	1a9add7ee442ad1e
+556	690	8066821415345368	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template_part2.pbi	c4910e879abf22e2
+701	989	8066821418334852	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbd	22bbd2c09be9647e
+1006	2854	8066821436434795	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbw	16d117a928272e11
+3	372	8066821694826766	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Source Files/main.pbi	1a9add7ee442ad1e
+385	486	8066821695996761	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template_part2.pbi	c4910e879abf22e2
+498	668	8066821697816835	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbd	22bbd2c09be9647e
+684	2439	8066821714956759	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbw	16d117a928272e11
+3	324	8066822428654287	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Source Files/main.pbi	1a9add7ee442ad1e
+337	438	8066822429824315	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template_part2.pbi	c4910e879abf22e2
+450	643	8066822431874299	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbd	22bbd2c09be9647e
+663	2639	8066822451310620	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbw	16d117a928272e11
+3	342	8066822506439564	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Source Files/main.pbi	1a9add7ee442ad1e
+354	448	8066822507519491	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template_part2.pbi	c4910e879abf22e2
+460	635	8066822509389523	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbd	22bbd2c09be9647e
+653	2454	8066822527039546	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbw	16d117a928272e11
+3	514	8066823146652236	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Source Files/main.pbi	1a9add7ee442ad1e
+527	634	8066823147882185	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template_part2.pbi	c4910e879abf22e2
+645	850	8066823150052195	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbd	22bbd2c09be9647e
+3	2536	8066823284070124	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/BrowseInfo/Template.pbw	16d117a928272e11

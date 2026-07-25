@@ -1,0 +1,14 @@
+# ninja log v5
+2	41	8065842687453307	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/Obj/CMSIS Files/startup_M031Series.o	550812178866ad20
+676	695	8066822472496246	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/Exe/Template.bin	a7a3010d9a35879f
+52	629	8065842693106416	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/Obj/Library Files/clk.o	f000568f4149041b
+4	451	8066822469816200	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/Obj/Source Files/main.o	8370cd61bac4b536
+518	1208	8065842698599467	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/Obj/Library Files/uart.o	c64345016bbde7b9
+12	493	8065842691779943	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/Obj/CMSIS Files/system_M031Series.o	31c20ddf1fff7733
+649	1138	8065842698147793	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/Obj/Library Files/retarget.o	ab76cb56f6aaa132
+1163	1604	8065842702949879	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/Obj/Library Files/sys.o	3c4cb237a378051d
+477	626	8066822471676258	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/Exe/Template.out	8852a430bf9ed291
+1631	2065	8065842707498857	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/Obj/Library Files/pdma.o	a592b027fabbbcd5
+3	391	8066823138614799	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/Obj/Source Files/main.o	8370cd61bac4b536
+412	545	8066823140202692	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/Exe/Template.out	8852a430bf9ed291
+584	602	8066823140882652	D:/Embedded/Nuvoton/M031_Series_BSP_CMSIS_V3.07.000/SampleCode/uart-pdma/IAR/Release/Exe/Template.bin	a7a3010d9a35879f
