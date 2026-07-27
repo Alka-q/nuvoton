@@ -1,7 +1,7 @@
-> # Proje Tasarımı - QUECTEL M66 GSM Modülü
+> # *Proje Tasarımı* 
 ---
 ```mermaid
-graph LR
+graph 
     GSM[GSM-M66] ==> ISR[UART1-RX-DMA-ISR]
     ISR ==>|Stream Buffer RX| NMT[Network Manager Task]
     NMT ==>|Stream Buffer TX| GSM
@@ -9,8 +9,9 @@ graph LR
     APP ==>|Queue| NMT
 ```
 ---
-- **UART1 paylaşımı**: printf (debug) ve GSM modülü ortak UART1 kullanır. TX Mutex ile korunur.
-- **RX Yönü**: GSM -> UART1 RX -> DMA -> ISR -> Stream Buffer -> Network Manager Task
+- **UART0**: GSM modülü ortak UART0 kullanır.
+- **UART1**: printf (debug) işlemlerini UART1 yapar.
+- **RX Yönü**: GSM -> UART1 RX -> DMA -> ISR -> Stream Buffer -> Network Manager Task.
 - **TX Yönü**: Network Manager Task -> Stream Buffer -> DMA/UART1 TX -> GSM
 - **Application Core**: AT komutu yanıtlarını parse eder.
-- Proje tasarımı **FreeRTOS** ile yapılacak (Nuvoton M031 / ARM Cortex-M0).
+- Proje tasarımı **FreeRTOS** (Nuvoton M032 / ARM Cortex-M0).
