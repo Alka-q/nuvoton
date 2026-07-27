@@ -65,7 +65,6 @@ typedef union{
         uint8_t flag_6 : 1;
         uint8_t flag_7 : 1;
         uint8_t flag_8 : 1;
-        uint8_t flag[8];
     }sFlag;
 }guFlag;
 guFlag uFlag;
